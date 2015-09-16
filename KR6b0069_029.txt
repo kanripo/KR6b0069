@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:17.587573
+#+DATE: 2015-08-30 19:36:25.186866
 #+TITLE: 出曜經
 #+PROPERTY: CBETA_ID T04n0212
 #+PROPERTY: ID KR6b0069
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 212
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6b0069_T_000-0609b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0069_T_029-0764c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 29
 ¶
 ¶
-
- 《出曜經》卷第二十九¶
+《出曜經》卷第二十九¶
 ¶
 姚秦涼州沙門竺佛念譯¶
 
-33沙門品
-:PROPERTIES:
-:head: 沙門品第三十三
-:END:
-¶
+沙門品第三十三¶
 
 #+BEGIN_VERSE
 「　比丘乞求，
@@ -344,8 +339,7 @@
 #+END_VERSE
 」¶
 
-如彼脩行之人攝身口意，少欲知足不大慇¶
-懃，雖得衣被飲食床臥具病瘦醫藥，趣自¶
+如彼脩行之人攝身口意，少欲知足不大慇懃，雖得衣被飲食床臥具病瘦醫藥，趣自¶
 支形不慕世榮，威儀禮節不失其度，床臥坐¶
 具恒知止足，莫受後世洋銅灌口，是故說曰，¶
 禪無放逸，莫為欲亂，無吞洋銅，自惱燋形。¶
@@ -702,11 +696,7 @@
 丘憂忍憂，分別床臥具，當念無放逸，斷有愛無¶
 餘也。¶
 
-34梵志品
-:PROPERTIES:
-:head: 《出曜經》梵志品第三十四
-:END:
-¶
+《出曜經》梵志品第三十四¶
 
 #+BEGIN_VERSE
 「　所謂梵志，

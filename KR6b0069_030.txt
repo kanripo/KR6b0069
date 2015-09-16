@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:17.625339
+#+DATE: 2015-08-30 19:36:25.224774
 #+TITLE: 出曜經
 #+PROPERTY: CBETA_ID T04n0212
 #+PROPERTY: ID KR6b0069
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 212
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6b0069_T_000-0609b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0069_T_030-0770c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 30
 ¶
 ¶
-
- 《出曜經》卷第三十¶
+《出曜經》卷第三十¶
 ¶
 姚秦涼州沙門竺佛念譯¶
 梵志品之二¶
@@ -648,7 +647,7 @@
 」¶
 
 無色不可見者，何者？心也？夫心興患與身招¶
-殃，猶若象馬剛強𢤱戾不調，有目之士加於¶
+殃，猶若象馬剛強[怡-台+龍]戾不調，有目之士加於¶
 捶杖，使知楚痛，然後調良？人心為患，牽致地¶
 獄餓鬼畜生，雖得為人處在卑賤，顏色醜陋¶
 為人所嫉，是故說曰？無色不可見，此亦不¶

@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:17.169780
+#+DATE: 2015-08-30 19:36:27.763594
 #+TITLE: 出曜經
 #+PROPERTY: CBETA_ID T04n0212
 #+PROPERTY: ID KR6b0069
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 212
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6b0069_T_000-0609b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0069_T_016-0693b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 《出曜經》卷第十六¶
+《出曜經》卷第十六¶
 ¶
 姚秦涼州沙門竺佛念譯¶
 
-15忿怒品
-:PROPERTIES:
-:head: 忿怒品第十五
-:END:
-¶
+忿怒品第十五¶
 
 #+BEGIN_VERSE
 「　不怒而興怒，
@@ -137,7 +132,7 @@
 王頸，退復追念父王教誡：「童子當知，夫人¶
 立行，唯貴信義，慎莫念惡，惡加人形終不得¶
 解。」設我違父遺意者則非孝子，欲崇父教誡¶
-故即便內劍耳。今原前𠎝不錄其罪，欲還將¶
+故即便內劍耳。今原前[億-音+(夫*夫)]不錄其罪，欲還將¶
 王早歸國界，得至彼已任王刑斬。』即共載車¶
 還本宮殿，普集大臣而告之曰：『卿等云何設¶
 見長壽王太子者，卿等如何？』其中或有說者：¶

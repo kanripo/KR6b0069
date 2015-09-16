@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 出曜經
+#+DATE: 2015-08-30 19:36:18.208422
+#+PROPERTY: JUAN 0
